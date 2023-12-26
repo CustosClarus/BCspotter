@@ -18,6 +18,17 @@ BCspotter reads a memory dump file, identifies hex values, and compares them aga
 - Efficient comparison against a predefined list of bad characters.
 - Simplifies the "eye-spotting exercise" mentioned in exploit development.
 
+## How to run
+  cd BCspotter
+python3 bcspotter.py 
+NOTE: Make sure you edit the code here
+`file_path = "dump"  # ` and replace with your filename.
+You also need a dump file, which for Immunity-debugger is 
+![image](https://github.com/asadzz/BCspotter/assets/7777434/2aa94ffe-e52c-46bb-b8f0-f6b3607dc2dd)
+
+
+
+
 ## Usage
 
 1. **Clone the Repository:**
