@@ -11,6 +11,9 @@ As someone who has experienced the challenges of identifying bad characters in m
 
 BCspotter reads a memory dump file, identifies hex values, and compares them against a predefined list of bad characters. It then provides a list of absent bad characters, streamlining the identification process.
 
+The bad_chars listed is obtained from 
+https://github.com/cytopia/badchars
+
 ## Features
 
 - Automatic detection of bad characters in memory dumps.
