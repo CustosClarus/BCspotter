@@ -19,9 +19,9 @@ BCspotter reads a memory dump file, identifies hex values, and compares them aga
 - Simplifies the "eye-spotting exercise" mentioned in exploit development.
 
 ## How to run
-    ```
-     cd BCspotter
-     python3 bcspotter.py
+    ```bash
+    cd BCspotter
+    python3 bcspotter.py
 
 NOTE: Make sure you edit the code here
 `file_path = "dump"  # ` and replace with your filename.
