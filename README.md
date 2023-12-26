@@ -1,5 +1,4 @@
-# BCspotter
-Bad character spotter for exploit writers
+
 # BCspotter
 
 ## Introduction
