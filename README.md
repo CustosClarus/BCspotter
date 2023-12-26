@@ -36,3 +36,5 @@ You also need a dump file, which for Immunity-debugger is
    ```bash
    git clone https://github.com/asadzz/BCspotter.git
    
+## Acknowledgments
+Special thanks to Heath Adams (TCM) for the inspiration provided in the "Finding Bad Characters" course video.
